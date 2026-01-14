@@ -1,0 +1,1 @@
+<h2>“I completed the NPTEL–SWAYAM course ‘The Joy of Computing Using Python’, a 12-week program, where I strengthened my Python fundamentals and problem-solving skills. I successfully completed all assessments and earned the certification, which I’ve attached for verification.”</h2>
